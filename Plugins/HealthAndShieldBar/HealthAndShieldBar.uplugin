@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "HealthAndShieldBar",
+	"Description": "Health and Shield Bar WIdget",
+	"Category": "Other",
+	"CreatedBy": "Suraj Bakawat",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "HealthAndShieldBar",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
